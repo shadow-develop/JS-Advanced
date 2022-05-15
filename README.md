@@ -1,2 +1,2 @@
 # JS-Advanced
-JS Advanced March` 22, SoftUni
+This is my JS Advance repository for my course at SoftUni
